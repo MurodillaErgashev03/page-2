@@ -1,0 +1,120 @@
+
+.site-main__container-1 {
+    margin-top: 168px;
+    width: 1110px;
+    height: 520px;
+    display: flex;
+    align-items: center;
+}
+
+.commit__box {
+    width: 540px;
+    height: 340px;
+    margin-left: 125px;
+}
+
+.commit__title {
+    font-style: normal;
+    font-weight: 900;
+    font-size: 40px;
+    line-height: 48px;
+    color: #333D4B;
+    margin-bottom: 32px;
+}
+
+.commit__text {
+    font-family: 'Barlow';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 26px;
+    color: #333D4B;
+}
+
+
+.site-main__container-2 {
+    margin-top: 256px;
+    width: 1280px;
+    height: 474px;
+    background: #2C343E;
+    border-radius: 10px;
+    display: flex;
+    position: relative;
+}
+
+.site-main__uncom-box {
+    width: 540px;
+    height: 210px;
+    margin-left: 85px;
+    padding-top: 88px;
+    margin-right: 125px;
+}
+
+.uncom-box__title {
+    font-style: normal;
+    font-weight: 900;
+    font-size: 40px;
+    line-height: 48px;
+    color: #FEFCF7;
+    margin-bottom: 32px;
+}
+
+.uncom-box__text {
+    font-family: 'Barlow';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 26px;
+    color: #FEFCF7;
+}
+
+.uncom-img {
+    position: absolute;
+    margin-top: -88px;
+    margin-left: 750px;
+}
+
+
+.site-main__container-3 {
+    width: 1045px;
+    height: 366px;
+    margin-top: 168px;
+}
+
+.site-main__our-text {
+    font-style: normal;
+    font-weight: 900;
+    font-size: 24px;
+    line-height: 32px;
+    color: #83888F;
+    margin-bottom: 72px;
+}
+
+.site-main__item-list {
+    width: 278px;
+    height: 269px;
+    margin-left: 110px;
+}
+
+.our-title {
+    font-style: normal;
+    font-weight: 900;
+    font-size: 32px;
+    line-height: 36px;
+    color: #333D4B;
+    margin-top: 50px;
+    margin-bottom: 32px;
+}
+
+.our-item-list {
+    font-family: 'Barlow';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 26px;
+    color: #333D4B;
+}
+.site-main__our-list{
+    display: flex;
+    margin-left: -110px;
+}

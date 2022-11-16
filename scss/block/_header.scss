@@ -1,0 +1,23 @@
+.site-header__container {
+    max-width: 1440px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 45px 80px;
+}
+
+.site__header-list {
+    display: flex;
+}
+
+.site__header-link {
+    font-family: 'Barlow';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 12px;
+    line-height: 15px;
+    letter-spacing: 0.923077px;
+    text-transform: uppercase;
+    color: #83888F;
+    margin-left: 33px;
+}

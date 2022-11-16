@@ -1,0 +1,30 @@
+.site-main__container {
+    width: 1280px;
+    height: 450px;
+    background-image: url(../img/back-img-1.jpg);
+}
+
+.site-main__box {
+    width: 445px;
+    height: 176px;
+    padding-top: 137px;
+    margin-left: 85px;
+}
+
+.site-main__title {
+    font-style: normal;
+    font-weight: 900;
+    font-size: 40px;
+    line-height: 48px;
+    color: #FEFCF7;
+    margin-bottom: 24px;
+}
+
+.site-main__text {
+    font-family: 'Barlow';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 26px;
+    color: #FEFCF7;
+}

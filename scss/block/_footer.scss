@@ -1,0 +1,45 @@
+.site-footer {
+    margin-top: 170px;
+    width: 1280px;
+    height: 120px;
+    background: #2C343E;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 90px;
+}
+
+.footer-left {
+   
+    display: flex;
+    align-items: center;
+}
+
+.footer-item-link {
+    font-family: 'Barlow';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 12px;
+    line-height: 15px;
+    letter-spacing: 0.923077px;
+    text-transform: uppercase;
+    color: #83888F;
+}
+.footer-ul{
+    display: flex;
+    margin-left: 71px;
+}
+.footer-li{
+    margin-left: 32px;
+}
+.footer-top{
+    display: flex;
+    padding: 45px 85px;
+    align-items: center;
+}
+.footer-ul-right{
+    display: flex;
+    margin-left: 340px;
+}
+.footer-li-right{
+    margin-left: 25px;
+}
